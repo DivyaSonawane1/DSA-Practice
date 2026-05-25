@@ -1,5 +1,4 @@
-## Problem Number: 1480<br>
-# Name : Running Sum of 1D Array
+# Problem: 1480 - Running Sum of 1D Array
 
 ## Problem Statement
 Given an array nums. We define a running sum of an array as
