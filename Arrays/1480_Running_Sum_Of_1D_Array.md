@@ -1,7 +1,7 @@
-# Problem Number: 1480<br>
+## Problem Number: 1480<br>
 # Name : Running Sum of 1D Array
 
-# Problem Statement
+## Problem Statement
 Given an array nums. We define a running sum of an array as
 runningSum[i] = sum(nums[0]…nums[i]).
 
@@ -24,7 +24,7 @@ Example 3:
 Input: nums = [3,1,2,10,1]
 Output: [3,4,6,16,17]
  
- # Constraints:
+ ## Constraints:
 
 1 <= nums.length <= 1000
 -10^6 <= nums[i] <= 10^6
