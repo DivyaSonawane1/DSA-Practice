@@ -71,7 +71,7 @@ This format helps in understanding the reasoning behind the solution rather than
 
 ---
 
-## 📈 Topics Covered
+## 📈 Topics included
 
 * Arrays
 * Strings
