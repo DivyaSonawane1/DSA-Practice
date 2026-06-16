@@ -20,17 +20,17 @@ Problems are organized by data structure and topic.
 DSA-Practice/
 │
 ├── Arrays/
-│   ├── Merge Sorted Array.md
-│   ├── Remove Duplicates.md
+│   ├── Problem_Number_And_Problem_Name.md
+│   ├── Problem_Number_And_Problem_Name.md
 │
 ├── Strings/
-│   ├── Valid Anagram.md
+│   ├── Problem_Number_And_Problem_Name.md
 │
 ├── LinkedList/
-│   ├── Reverse Linked List.md
+│   ├── Problem_Number_And_Problem_Name.md
 │
 ├── Trees/
-│   ├── Binary Tree Inorder Traversal.md
+│   ├── Problem_Number_And_Problem_Name.md
 │
 └── README.md
 ```
